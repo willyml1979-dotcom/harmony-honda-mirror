@@ -1,6 +1,6 @@
 {
   "dealership": "Harmony Honda",
-  "generated_at": "2026-10-26T03:34:31",
+  "generated_at": "2026-10-26T03:48:15",
   "vehicle_count": 265,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -1748,7 +1748,7 @@
       "make": "Audi",
       "model": "Q5",
       "condition": "new",
-      "price": 49494.0,
+      "price": 48387.0,
       "price_currency": "CAD"
     },
     {
@@ -1808,13 +1808,13 @@
     },
     {
       "name": "2025 Honda CR-V Hybrid ",
-      "vin": "2HKRS6H90SH231560",
+      "vin": "2HKRS6H95SH213099",
       "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/5ee20a917f6a.html",
       "year": 2025,
       "make": "Honda",
       "model": "CR-V Hybrid",
       "condition": "new",
-      "price": 39646.0,
+      "price": 43990.0,
       "price_currency": "CAD"
     },
     {
