@@ -1,6 +1,6 @@
 {
   "dealership": "Harmony Honda",
-  "generated_at": "2026-10-25T18:33:06",
+  "generated_at": "2026-10-25T18:36:41",
   "vehicle_count": 261,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -1660,7 +1660,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "new",
-      "price": 33500.0,
+      "price": 32500.0,
       "price_currency": "CAD"
     },
     {
