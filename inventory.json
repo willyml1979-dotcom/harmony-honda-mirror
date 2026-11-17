@@ -1,6 +1,6 @@
 {
   "dealership": "Harmony Honda",
-  "generated_at": "2026-11-16T20:06:16",
+  "generated_at": "2026-11-16T21:25:06",
   "vehicle_count": 262,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -307,6 +307,30 @@
       "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/035787ca1ca1.html",
       "condition": "used",
       "price": 62990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Honda HR-V 2025 for salein Kelowna",
+      "vin": "3CZRZ2H76SM104514",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/328159161582.html",
+      "condition": "new",
+      "price": 35995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Honda Pilot 2025 for salein Kelowna",
+      "vin": "5FNYG1H37SB510272",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/0f1a701a548b.html",
+      "condition": "new",
+      "price": 53887.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda CX-70 MHEV 2025 for salein Kelowna",
+      "vin": "JM3KJEHC8S1102202",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/2147a7a6503e.html",
+      "condition": "new",
+      "price": 46500.0,
       "price_currency": "CAD"
     },
     {
@@ -1509,28 +1533,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Honda HR-V ",
-      "vin": "3CZRZ2H76SM104514",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/328159161582.html",
-      "year": 2025,
-      "make": "Honda",
-      "model": "HR-V",
-      "condition": "new",
-      "price": 35995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Honda Pilot ",
-      "vin": "5FNYG1H37SB510272",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/0f1a701a548b.html",
-      "year": 2025,
-      "make": "Honda",
-      "model": "Pilot",
-      "condition": "new",
-      "price": 54990.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Mazda CX-70 MHEV ",
       "vin": "JM3KJEHC8S1102202",
       "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/2147a7a6503e.html",
@@ -1539,17 +1541,6 @@
       "model": "CX-70 MHEV",
       "condition": "used",
       "price": 50900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Mazda CX-70 MHEV ",
-      "vin": "JM3KJEHC8S1102202",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/2147a7a6503e.html",
-      "year": 2025,
-      "make": "Mazda",
-      "model": "CX-70 MHEV",
-      "condition": "new",
-      "price": 52499.0,
       "price_currency": "CAD"
     },
     {
@@ -1913,24 +1904,6 @@
       "condition": "new"
     },
     {
-      "name": "2026 Honda Civic Hybrid Sportin Kelowna",
-      "vin": "2HGFE4F82TH019831",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/bf4e1bfb21a7.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "Civic Hybrid",
-      "condition": "new"
-    },
-    {
-      "name": "2026 Honda Civic Hybrid Sport Touringin Kelowna",
-      "vin": "2HGFE4F80TH020282",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/6a45a0d2d85c.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "Civic Hybrid",
-      "condition": "new"
-    },
-    {
       "name": "2026 Honda Civic Hybrid Sport Touringin Kelowna",
       "vin": "2HGFE4F81TH020355",
       "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/d0dfc74be955.html",
@@ -1952,60 +1925,6 @@
       "name": "2026 Honda Civic Sedan Si Mtin Kelowna",
       "vin": "2HGFE1E51TH081615",
       "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/e25cd05a00e0.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "Civic",
-      "condition": "new"
-    },
-    {
-      "name": "2026 Honda Civic Sedan Sportin Kelowna",
-      "vin": "2HGFE2F59TH117541",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/43ab06043508.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "Civic",
-      "condition": "new"
-    },
-    {
-      "name": "2026 Honda Civic Sedan Sportin Kelowna",
-      "vin": "2HGFE2F50TH117833",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/903c31fa450f.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "Civic",
-      "condition": "new"
-    },
-    {
-      "name": "2026 Honda Civic Sedan Sportin Kelowna",
-      "vin": "2HGFE2F51TH118179",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/cc49513ba6f7.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "Civic",
-      "condition": "new"
-    },
-    {
-      "name": "2026 Honda Civic Sedan Sportin Kelowna",
-      "vin": "2HGFE2F51TH118151",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/2ce8a76703cd.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "Civic",
-      "condition": "new"
-    },
-    {
-      "name": "2026 Honda Civic Sedan LXin Kelowna",
-      "vin": "2HGFE2F20TH118034",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/cf2876ccb089.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "Civic",
-      "condition": "new"
-    },
-    {
-      "name": "2026 Honda Civic Sedan Sportin Kelowna",
-      "vin": "2HGFE2F58TH118146",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/258d40fe5c79.html",
       "year": 2026,
       "make": "Honda",
       "model": "Civic",
@@ -2279,6 +2198,69 @@
       "condition": "new"
     },
     {
+      "name": "New 2027 Honda Civic Hybrid Sport Touringin Kelowna",
+      "vin": "2HGFE4F96VH000436",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/241d99329f78.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic Hybrid",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Honda Civic Hybrid Sport Touringin Kelowna",
+      "vin": "2HGFE4F90VH000884",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/8cb11800d926.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic Hybrid",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Honda Civic Hybrid Sportin Kelowna",
+      "vin": "2HGFE4F86VH001738",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/53b656f05a24.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic Hybrid",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Honda Civic Hybrid Sportin Kelowna",
+      "vin": "2HGFE4F88VH001482",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/4917b52e62ff.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic Hybrid",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Honda Civic Hybrid Sport Touringin Kelowna",
+      "vin": "2HGFE4F98VH001944",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/f66eb251bd72.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic Hybrid",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Honda Civic Hybrid Sport Touringin Kelowna",
+      "vin": "2HGFE4F91VH001946",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/ecc83b1682e0.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic Hybrid",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Honda Civic Hybrid Sport Touringin Kelowna",
+      "vin": "2HGFE4F95VH001934",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/e9be631c42db.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic Hybrid",
+      "condition": "new"
+    },
+    {
       "name": "New 2027 Honda Civic Sedan LXin Kelowna",
       "vin": "2HGFE2F24VH100669",
       "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/7a6e52d43e61.html",
@@ -2388,15 +2370,6 @@
     },
     {
       "name": "2027 Honda HR-V Sportin Kelowna",
-      "vin": "3CZRZ2H51VM104648",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/3905d6f122d4.html",
-      "year": 2027,
-      "make": "Honda",
-      "model": "HR-V",
-      "condition": "new"
-    },
-    {
-      "name": "2027 Honda HR-V Sportin Kelowna",
       "vin": "3CZRZ2H53VM106143",
       "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/65e1876ef979.html",
       "year": 2027,
@@ -2417,24 +2390,6 @@
       "name": "2027 Honda HR-V LXin Kelowna",
       "vin": "3CZRZ1H37VM101391",
       "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/2685f4cb421e.html",
-      "year": 2027,
-      "make": "Honda",
-      "model": "HR-V",
-      "condition": "new"
-    },
-    {
-      "name": "2027 Honda HR-V Ex-Lin Kelowna",
-      "vin": "3CZRZ2H73VM106256",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/c26bb8cb2c9a.html",
-      "year": 2027,
-      "make": "Honda",
-      "model": "HR-V",
-      "condition": "new"
-    },
-    {
-      "name": "2027 Honda HR-V LXin Kelowna",
-      "vin": "3CZRZ2H35VM106773",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/702b3c512d92.html",
       "year": 2027,
       "make": "Honda",
       "model": "HR-V",
@@ -2480,15 +2435,6 @@
       "name": "2027 Honda HR-V Ex-Lin Kelowna",
       "vin": "3CZRZ2H77VM107748",
       "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/e08999da912d.html",
-      "year": 2027,
-      "make": "Honda",
-      "model": "HR-V",
-      "condition": "new"
-    },
-    {
-      "name": "2027 Honda HR-V Sportin Kelowna",
-      "vin": "3CZRZ2H58VM107725",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/0e6ed84fbd74.html",
       "year": 2027,
       "make": "Honda",
       "model": "HR-V",
@@ -2597,6 +2543,51 @@
       "name": "New 2027 Honda HR-V LXin Kelowna",
       "vin": "3CZRZ1H33VM101842",
       "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/29b13315283b.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "HR-V",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Honda HR-V Sportin Kelowna",
+      "vin": "3CZRZ2H58VM109443",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/22a141c38b10.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "HR-V",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Honda HR-V Sportin Kelowna",
+      "vin": "3CZRZ2H56VM109649",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/3102663295c4.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "HR-V",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Honda HR-V LXin Kelowna",
+      "vin": "3CZRZ1H32VM102075",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/9e82bc4dcb6c.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "HR-V",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Honda HR-V Sportin Kelowna",
+      "vin": "3CZRZ2H51VM109588",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/6373fb1f1955.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "HR-V",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Honda HR-V Sportin Kelowna",
+      "vin": "3CZRZ2H55VM109660",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/e163823aa4ec.html",
       "year": 2027,
       "make": "Honda",
       "model": "HR-V",
