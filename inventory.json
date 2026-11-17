@@ -1,214 +1,323 @@
 {
   "dealership": "Harmony Honda",
-  "generated_at": "2026-10-26T03:48:15",
-  "vehicle_count": 265,
+  "generated_at": "2026-11-16T20:06:16",
+  "vehicle_count": 262,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
-      "name": "New 2027 Honda Civic Hybrid Sportin Kelowna",
-      "vin": "2HGFE4F85VH000273",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/a91091c8a4f8.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2027 Honda Civic Hybrid Sportin Kelowna",
-      "vin": "2HGFE4F88VH000378",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/a1917ab8b2cb.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2027 Honda Civic Hybrid Sportin Kelowna",
-      "vin": "2HGFE4F81VH000495",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/1b9f95fcf320.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2027 Honda Civic Hybrid Sportin Kelowna",
-      "vin": "2HGFE4F87VH000520",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/120db2a23665.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2027 Honda Civic Hybrid Sportin Kelowna",
-      "vin": "2HGFE4F81VH000500",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/60a59dd40e1b.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2027 Honda Civic Hybrid Sport Touringin Kelowna",
-      "vin": "2HGFE4F94VH000029",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/f2da8b378261.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2027 Honda Civic Hybrid Sport Touringin Kelowna",
-      "vin": "2HGFE4F92VH000045",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/77fa6fe5d7bf.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2027 Honda Civic Hybrid Sportin Kelowna",
-      "vin": "2HGFE4F83VH000496",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/5ed4907ff0e0.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2027 Honda Civic Hybrid Sport Touringin Kelowna",
-      "vin": "2HGFE4F90VH000044",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/69be4fb7486f.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2027 Honda Civic Hybrid Sport Touringin Kelowna",
-      "vin": "2HGFE4F90VH000447",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/a698ee9d4557.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2027 Honda Civic Hybrid Sport Touringin Kelowna",
-      "vin": "2HGFE4F92VH000806",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/e081fce93165.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2027 Honda Civic Sedan LXin Kelowna",
-      "vin": "2HGFE2F24VH100669",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/7a6e52d43e61.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2027 Honda Civic Sedan LXin Kelowna",
-      "vin": "2HGFE2F2XVH100689",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/c97c485dc1d7.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2027 Honda Civic Sedan LXin Kelowna",
-      "vin": "2HGFE2F28VH100688",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/d9f4280f93f7.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2027 Honda Civic Sedan LXin Kelowna",
-      "vin": "2HGFE2F26VH100690",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/d1e6d40ef8b2.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2027 Honda Civic Sedan LXin Kelowna",
-      "vin": "2HGFE2F23VH100677",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/d4a59d8c035a.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2027 Honda Civic Sedan LXin Kelowna",
-      "vin": "2HGFE2F21VH100676",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/c3862c835af6.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2027 Honda Civic Sedan LXin Kelowna",
-      "vin": "2HGFE2F21VH100886",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/473e30f9af89.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2027 Honda Civic Sedan LXin Kelowna",
-      "vin": "2HGFE2F28VH100884",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/7ce6664aa943.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2027 Honda Civic Sedan LXin Kelowna",
-      "vin": "2HGFE2F22VH100881",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/fabcae1a5c57.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2027 Honda Civic Sedan LXin Kelowna",
-      "vin": "2HGFE2F24VH100901",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/04ea6e42c528.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2027 Honda Civic Sedan LXin Kelowna",
-      "vin": "2HGFE2F25VH100888",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/d0c9709fa3f6.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2027 Honda HR-V Ex-Lin Kelowna",
-      "vin": "3CZRZ2H73VM108900",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/5d6759055e6f.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2027 Honda HR-V Ex-Lin Kelowna",
-      "vin": "3CZRZ2H75VM108848",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/72f81e6b3719.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2027 Honda HR-V LXin Kelowna",
-      "vin": "3CZRZ1H31VM101810",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/4997e348c20e.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2027 Honda HR-V Sportin Kelowna",
-      "vin": "3CZRZ2H54VM108564",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/705162da48b0.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2027 Honda HR-V LXin Kelowna",
-      "vin": "3CZRZ1H33VM101842",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/29b13315283b.html",
-      "condition": "new"
-    },
-    {
-      "name": "2005 Dodge RAM 1500 SLTin Kelowna",
-      "vin": "1D7HU18D55J571270",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/706290db05f2.html",
-      "year": 2005,
-      "make": "Dodge",
-      "model": "RAM 1500 SLTin Kelowna",
+      "name": "Lexus IS 350 2007 for salein Kelowna",
+      "vin": "JTHBE262375014419",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/1cd87525b8bf.html",
       "condition": "used",
-      "price": 17900.0,
+      "price": 11900.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2005 Dodge RAM 1500 ",
-      "vin": "1D7HU18D55J571270",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/35e1eb226dc5.html",
-      "year": 2005,
-      "make": "Dodge",
-      "model": "RAM 1500",
+      "name": "Toyota RAV4 2011 for salein Kelowna",
+      "vin": "2T3RF4DV0BW171025",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/769a9c840520.html",
       "condition": "used",
-      "price": 17900.0,
+      "price": 13900.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2008 Honda Fit ",
-      "vin": "JHMGD384X8S813422",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/6dfcaa35fa09.html",
-      "year": 2008,
-      "make": "Honda",
-      "model": "Fit",
+      "name": "Chevrolet Traverse 2014 for salein Kelowna",
+      "vin": "1GNKVGKD5EJ348937",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/3f7b6d279ae0.html",
       "condition": "used",
-      "price": 10995.0,
+      "price": 11900.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2008 Honda Fit LXin Kelowna",
-      "vin": "JHMGD384X8S813422",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/0afa30d42289.html",
-      "year": 2008,
-      "make": "Honda",
-      "model": "Fit",
+      "name": "Chevrolet Trax 2014 for salein Kelowna",
+      "vin": "3GNCJPEB1EL178546",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/8de1dc17875f.html",
       "condition": "used",
-      "price": 10995.0,
+      "price": 13500.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Kia Soul 2014 for salein Kelowna",
+      "vin": "KNDJP3A54E7080543",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/3ac7b441028f.html",
+      "condition": "used",
+      "price": 12990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Acura TLX 2015 for salein Kelowna",
+      "vin": "19UUB3F70FA802294",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/277a661786ef.html",
+      "condition": "used",
+      "price": 23990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Buick Enclave 2015 for salein Kelowna",
+      "vin": "5GAKVCKD4FJ102918",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/8ba5ead1766f.html",
+      "condition": "used",
+      "price": 12999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Escape 2015 for salein Kelowna",
+      "vin": "1FMCU9G92FUB52935",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/92b2cc7df6d2.html",
+      "condition": "used",
+      "price": 11990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Acura ILX 2016 for salein Kelowna",
+      "vin": "19UDE2F76GA801914",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/0abd51100ab6.html",
+      "condition": "used",
+      "price": 23990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "BMW X5 2016 for salein Kelowna",
+      "vin": "5UXKR0C50G0U49077",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/e9c3716b456d.html",
+      "condition": "used",
+      "price": 21987.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Honda Civic Sedan 2016 for salein Kelowna",
+      "vin": "2HGFC2F73GH035110",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/b97741bf9152.html",
+      "condition": "used",
+      "price": 21500.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda CX-5 2016 for salein Kelowna",
+      "vin": "JM3KE4DY9G0622079",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/c27cbb6bdcdf.html",
+      "condition": "used",
+      "price": 21990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volvo V60 2016 for salein Kelowna",
+      "vin": "YV4612HK2G1008756",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/f8b99c021b8c.html",
+      "condition": "used",
+      "price": 15990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Infiniti QX60 2018 for salein Kelowna",
+      "vin": "5N1DL0MM8JC529729",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/5eab543cfd7e.html",
+      "condition": "used",
+      "price": 21500.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Toyota Tacoma 2018 for salein Kelowna",
+      "vin": "5TFDZ5BN4JX031516",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/d61595c5f15b.html",
+      "condition": "used",
+      "price": 48990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Honda Civic Coupe 2020 for salein Kelowna",
+      "vin": "2HGFC4B67LH401315",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/fdd72dbd8111.html",
+      "condition": "used",
+      "price": 19990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Kia Sorento 2020 for salein Kelowna",
+      "vin": "5XYPGDA59LG633378",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/0ed7843c0276.html",
+      "condition": "used",
+      "price": 20995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Toyota Highlander 2020 for salein Kelowna",
+      "vin": "5TDDZRBH9LS001664",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/61bad47e1d62.html",
+      "condition": "used",
+      "price": 39990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda CX-3 2022 for salein Kelowna",
+      "vin": "JM1DKFD77N1603244",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/5b3ffc56d1f9.html",
+      "condition": "used",
+      "price": 27707.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Honda CR-V 2023 for salein Kelowna",
+      "vin": "2HKRS4H72PH102925",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/a2bf36dc3a5d.html",
+      "condition": "used",
+      "price": 35990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Toyota Corolla Hybrid 2023 for salein Kelowna",
+      "vin": "JTDBCMFE9P3011209",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/a2de51e701a8.html",
+      "condition": "used",
+      "price": 24498.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chevrolet Silverado 1500 2024 for salein Kelowna",
+      "vin": "1GCUDEED0RZ199414",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/5668758ae05c.html",
+      "condition": "used",
+      "price": 51684.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Honda CR-V Hybrid 2024 for salein Kelowna",
+      "vin": "2HKRS6H9XRH204912",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/d8784b3c283b.html",
+      "condition": "used",
+      "price": 39795.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Honda HR-V 2024 for salein Kelowna",
+      "vin": "3CZRZ2H53RM100297",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/a6c339c65609.html",
+      "condition": "used",
+      "price": 30881.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Palisade 2024 for salein Kelowna",
+      "vin": "KM8R3DGE6RU741424",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/7e28380f1034.html",
+      "condition": "used",
+      "price": 42500.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Kia Seltos 2024 for salein Kelowna",
+      "vin": "KNDEUCAA6R7502065",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/b233a6bf1b41.html",
+      "condition": "used",
+      "price": 21500.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Kia Sorento 2024 for salein Kelowna",
+      "vin": "5XYRGDJC7RG259644",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/e4970f2e1da6.html",
+      "condition": "used",
+      "price": 28487.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mitsubishi Outlander PHEV 2024 for salein Kelowna",
+      "vin": "JA4T5WA90RZ604780",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/0e2f6cb5045f.html",
+      "condition": "used",
+      "price": 35823.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Subaru Forester 2024 for salein Kelowna",
+      "vin": "JF2SKEFC0RH469560",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/ade520472d86.html",
+      "condition": "used",
+      "price": 31444.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Subaru Outback 2024 for salein Kelowna",
+      "vin": "4S4BTHND8R3265556",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/b5c67fc3f75e.html",
+      "condition": "used",
+      "price": 36500.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Toyota Camry 2024 for salein Kelowna",
+      "vin": "4T1S11AK7RU907423",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/8b5e392e1712.html",
+      "condition": "used",
+      "price": 30997.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Audi Q5 2025 for salein Kelowna",
+      "vin": "WA12AAGU7S2018937",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/3359daf30a70.html",
+      "condition": "used",
+      "price": 45887.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Genesis GV70 2025 for salein Kelowna",
+      "vin": "KMUMADTB6SU216737",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/2195d6e5bbff.html",
+      "condition": "used",
+      "price": 49994.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Honda CR-V 2025 for salein Kelowna",
+      "vin": "2HKRS4H22SH107619",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/1c786731fe3b.html",
+      "condition": "used",
+      "price": 36827.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Honda CR-V Hybrid 2025 for salein Kelowna",
+      "vin": "2HKRS6H95SH213099",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/5ee20a917f6a.html",
+      "condition": "used",
+      "price": 41990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Honda HR-V 2025 for salein Kelowna",
+      "vin": "3CZRZ2H76SM104514",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/328159161582.html",
+      "condition": "used",
+      "price": 35995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Honda Ridgeline 2025 for salein Kelowna",
+      "vin": "5FPYK3F81SB501986",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/3bcd6c154c4d.html",
+      "condition": "used",
+      "price": 56990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Honda Odyssey 2026 for salein Kelowna",
+      "vin": "5FNRL6H09TB500704",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/035787ca1ca1.html",
+      "condition": "used",
+      "price": 62990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2007 Lexus IS 350in Kelowna",
+      "vin": "JTHBE262375014419",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/c8ab947bd301.html",
+      "year": 2007,
+      "make": "Lexus",
+      "model": "IS",
+      "condition": "used",
+      "price": 11900.0,
       "price_currency": "CAD"
     },
     {
@@ -256,28 +365,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2010 Honda Civic Sedan Ex-Lin Kelowna",
-      "vin": "2HGFA1F01AH023502",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/8fedf7f0ba5b.html",
-      "year": 2010,
-      "make": "Honda",
-      "model": "Civic",
-      "condition": "used",
-      "price": 12990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2010 Honda Civic Sedan ",
-      "vin": "2HGFA1F01AH023502",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/d239a9bde8b4.html",
-      "year": 2010,
-      "make": "Honda",
-      "model": "Civic Sedan",
-      "condition": "used",
-      "price": 12990.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2010 Volkswagen Tiguan Trendlinein Kelowna",
       "vin": "WVGAV9AX2AW520345",
       "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/91240b80d412.html",
@@ -319,6 +406,17 @@
       "model": "RDX",
       "condition": "used",
       "price": 14500.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2011 Toyota RAV4 Sportin Kelowna",
+      "vin": "2T3RF4DV0BW171025",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/1cea696d2f81.html",
+      "year": 2011,
+      "make": "Toyota",
+      "model": "RAV4",
+      "condition": "used",
+      "price": 13900.0,
       "price_currency": "CAD"
     },
     {
@@ -366,25 +464,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2013 Nissan Juke SVin Kelowna",
-      "vin": "JN8AF5MV6DT205319",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/92c16e5988c5.html",
-      "year": 2013,
-      "make": "Nissan",
-      "model": "Juke",
+      "name": "2014 Chevrolet Traverse 1LTin Kelowna",
+      "vin": "1GNKVGKD5EJ348937",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/2c2441f35a56.html",
+      "year": 2014,
+      "make": "Chevrolet",
+      "model": "Traverse",
       "condition": "used",
-      "price": 11500.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2013 Nissan Juke ",
-      "vin": "JN8AF5MV6DT205319",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/f2b2a58e3485.html",
-      "year": 2013,
-      "make": "Nissan",
-      "model": "Juke",
-      "condition": "used",
-      "price": 11500.0,
+      "price": 11900.0,
       "price_currency": "CAD"
     },
     {
@@ -395,40 +482,7 @@
       "make": "Chevrolet",
       "model": "Trax",
       "condition": "used",
-      "price": 14990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2014 Chevrolet Trax ",
-      "vin": "3GNCJPEB1EL178546",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/8de1dc17875f.html",
-      "year": 2014,
-      "make": "Chevrolet",
-      "model": "Trax",
-      "condition": "used",
-      "price": 14990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2014 Honda Odyssey EXin Kelowna",
-      "vin": "5FNRL5H43EB505297",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/dd2c2704c059.html",
-      "year": 2014,
-      "make": "Honda",
-      "model": "Odyssey",
-      "condition": "used",
-      "price": 11990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2014 Honda Odyssey ",
-      "vin": "5FNRL5H43EB505297",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/cc722c7cc490.html",
-      "year": 2014,
-      "make": "Honda",
-      "model": "Odyssey",
-      "condition": "used",
-      "price": 11990.0,
+      "price": 13500.0,
       "price_currency": "CAD"
     },
     {
@@ -451,6 +505,17 @@
       "model": "Elantra Coupe",
       "condition": "used",
       "price": 10500.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2014 Kia Soul EXin Kelowna",
+      "vin": "KNDJP3A54E7080543",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/46a3b2e49f0a.html",
+      "year": 2014,
+      "make": "Kia",
+      "model": "Soul",
+      "condition": "used",
+      "price": 12990.0,
       "price_currency": "CAD"
     },
     {
@@ -495,6 +560,28 @@
       "model": "Touareg",
       "condition": "used",
       "price": 14990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2015 Buick Enclave Premium Groupin Kelowna",
+      "vin": "5GAKVCKD4FJ102918",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/d94cb42b5701.html",
+      "year": 2015,
+      "make": "Buick",
+      "model": "Enclave",
+      "condition": "used",
+      "price": 12999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2015 Ford Escape SEin Kelowna",
+      "vin": "1FMCU9G92FUB52935",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/4b97bf54817e.html",
+      "year": 2015,
+      "make": "Ford",
+      "model": "Escape",
+      "condition": "used",
+      "price": 11990.0,
       "price_currency": "CAD"
     },
     {
@@ -553,50 +640,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2016 Chevrolet Malibu LSin Kelowna",
-      "vin": "1G1ZB5ST6GF189081",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/4e1f411b1eb1.html",
-      "year": 2016,
-      "make": "Chevrolet",
-      "model": "Malibu",
-      "condition": "used",
-      "price": 16900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2016 Chevrolet Malibu ",
-      "vin": "1G1ZB5ST6GF189081",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/a3992a3ba770.html",
-      "year": 2016,
-      "make": "Chevrolet",
-      "model": "Malibu",
-      "condition": "used",
-      "price": 16900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2016 Honda HR-V LXin Kelowna",
-      "vin": "3CZRU6H38GM108431",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/f55de306b086.html",
-      "year": 2016,
-      "make": "Honda",
-      "model": "HR-V",
-      "condition": "used",
-      "price": 16990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2016 Honda HR-V ",
-      "vin": "3CZRU6H38GM108431",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/973674244055.html",
-      "year": 2016,
-      "make": "Honda",
-      "model": "HR-V",
-      "condition": "used",
-      "price": 16990.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2016 Volkswagen Tiguan Trendlinein Kelowna",
       "vin": "WVGKV7AXXGW597160",
       "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/39c33a085a96.html",
@@ -619,6 +662,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2016 Volvo V60 T5 Premierin Kelowna",
+      "vin": "YV4612HK2G1008756",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/bc6a143d6641.html",
+      "year": 2016,
+      "make": "Volvo",
+      "model": "V60",
+      "condition": "used",
+      "price": 15990.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2017 Acura ILX ",
       "vin": "19UDE2F86HA800255",
       "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/55252cf73363.html",
@@ -627,28 +681,6 @@
       "model": "ILX",
       "condition": "used",
       "price": 23500.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 Acura MDX ",
-      "vin": "5FRYD4H83HB504952",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/61520545c773.html",
-      "year": 2017,
-      "make": "Acura",
-      "model": "MDX",
-      "condition": "used",
-      "price": 21500.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 BMW X3 Xdrive35iin Kelowna",
-      "vin": "5UXWX7C3XH0W40070",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/56c5bbe1f0e5.html",
-      "year": 2017,
-      "make": "BMW",
-      "model": "X3",
-      "condition": "used",
-      "price": 16500.0,
       "price_currency": "CAD"
     },
     {
@@ -685,17 +717,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Cadillac XT5 ",
-      "vin": "1GYKNFRS0HZ313665",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/85871d3c8301.html",
-      "year": 2017,
-      "make": "Cadillac",
-      "model": "XT5",
-      "condition": "used",
-      "price": 20990.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2017 Chevrolet Traverse 1LTin Kelowna",
       "vin": "1GNKVHKD8HJ153442",
       "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/cec1841f148d.html",
@@ -715,28 +736,6 @@
       "model": "Traverse",
       "condition": "used",
       "price": 8990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 Hyundai Santa Fe Sport 2.4 Sein Kelowna",
-      "vin": "5XYZUDLB6HG417824",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/9b3d55e4c26e.html",
-      "year": 2017,
-      "make": "Hyundai",
-      "model": "Santa Fe",
-      "condition": "used",
-      "price": 17500.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 Hyundai Santa Fe Sport ",
-      "vin": "5XYZUDLB6HG417824",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/44f37958f538.html",
-      "year": 2017,
-      "make": "Hyundai",
-      "model": "Santa Fe",
-      "condition": "used",
-      "price": 17500.0,
       "price_currency": "CAD"
     },
     {
@@ -773,6 +772,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2017 Mazda3 GSin Kelowna",
+      "vin": "JM1BN1V7XH1105303",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/4bc12366d5db.html",
+      "year": 2017,
+      "make": "Mazda3",
+      "model": "GSin Kelowna",
+      "condition": "used",
+      "price": 19500.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2017 Volkswagen Tiguan Highlinein Kelowna",
       "vin": "WVGLV7AX8HK037876",
       "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/17d401df1fa5.html",
@@ -795,6 +805,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2018 Audi Q3 2.0t Progressivin Kelowna",
+      "vin": "WA1JCCFS3JR032244",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/668342871d29.html",
+      "year": 2018,
+      "make": "Audi",
+      "model": "Q3",
+      "condition": "used",
+      "price": 20990.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2018 Audi Q3 ",
       "vin": "WA1JCCFS3JR032244",
       "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/1e3a026e9fda.html",
@@ -806,25 +827,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Audi RS 3 ",
-      "vin": "WUABWHFF7J1900118",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/7b22b5c97c9b.html",
+      "name": "2018 BMW 4 Series 430i Gran Coupein Kelowna",
+      "vin": "WBA4J3C5XJBG90465",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/e398ae37d33c.html",
       "year": 2018,
-      "make": "Audi",
-      "model": "RS 3",
+      "make": "BMW",
+      "model": "4 Series",
       "condition": "used",
-      "price": 47900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Audi SQ5 ",
-      "vin": "WA1A4AFY6J2022001",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/8e0115889cd9.html",
-      "year": 2018,
-      "make": "Audi",
-      "model": "SQ5",
-      "condition": "used",
-      "price": 31900.0,
+      "price": 19800.0,
       "price_currency": "CAD"
     },
     {
@@ -861,28 +871,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Chevrolet Trax LTin Kelowna",
-      "vin": "3GNCJPSB1JL346653",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/b12b962d9fa5.html",
-      "year": 2018,
-      "make": "Chevrolet",
-      "model": "Trax",
-      "condition": "used",
-      "price": 13990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Chevrolet Trax ",
-      "vin": "3GNCJPSB1JL346653",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/ccf49705a19c.html",
-      "year": 2018,
-      "make": "Chevrolet",
-      "model": "Trax",
-      "condition": "used",
-      "price": 13990.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2018 Ford Edge Titaniumin Kelowna",
       "vin": "2FMPK3K97JBB96486",
       "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/0eaa83995d5b.html",
@@ -905,39 +893,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Honda Civic Sedan Ex-Tin Kelowna",
-      "vin": "2HGFC1F47JH100533",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/c73cb8686d11.html",
-      "year": 2018,
-      "make": "Honda",
-      "model": "Civic",
-      "condition": "used",
-      "price": 19990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Honda Civic Sedan ",
-      "vin": "2HGFC1F47JH100533",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/6521f7816b6f.html",
-      "year": 2018,
-      "make": "Honda",
-      "model": "Civic Sedan",
-      "condition": "used",
-      "price": 19990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Honda Odyssey ",
-      "vin": "5FNRL6H49JB506261",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/1d83f0279105.html",
-      "year": 2018,
-      "make": "Honda",
-      "model": "Odyssey",
-      "condition": "used",
-      "price": 25500.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2018 Honda Odyssey ",
       "vin": "5FNRL6H49JB506261",
       "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/1d83f0279105.html",
@@ -949,14 +904,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Acura ILX ",
-      "vin": "19UDE2F75KA800097",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/16831735b19b.html",
-      "year": 2019,
-      "make": "Acura",
-      "model": "ILX",
+      "name": "2018 Mazda3 GTin Kelowna",
+      "vin": "3MZBN1W31JM225931",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/9e1c6f286052.html",
+      "year": 2018,
+      "make": "Mazda3",
+      "model": "GTin Kelowna",
       "condition": "used",
-      "price": 24990.0,
+      "price": 19990.0,
       "price_currency": "CAD"
     },
     {
@@ -1070,14 +1025,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Honda Civic Sedan ",
-      "vin": "2HGFC1F99LH100595",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/90e3220b56ff.html",
+      "name": "2020 Honda Civic Coupe LXin Kelowna",
+      "vin": "2HGFC4B67LH401315",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/48b4a72bdd60.html",
       "year": 2020,
       "make": "Honda",
-      "model": "Civic Sedan",
+      "model": "Civic",
       "condition": "used",
-      "price": 25455.0,
+      "price": 19990.0,
       "price_currency": "CAD"
     },
     {
@@ -1111,6 +1066,17 @@
       "model": "QX60",
       "condition": "used",
       "price": 22999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2020 Kia Sorento LXin Kelowna",
+      "vin": "5XYPGDA59LG633378",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/2a938b3116f9.html",
+      "year": 2020,
+      "make": "Kia",
+      "model": "Sorento",
+      "condition": "used",
+      "price": 20995.0,
       "price_currency": "CAD"
     },
     {
@@ -1158,39 +1124,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Mazda3 GXin Kelowna",
-      "vin": "JM1BPAB7XM1302013",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/e54029332195.html",
-      "year": 2021,
-      "make": "Mazda3",
-      "model": "GXin Kelowna",
-      "condition": "used",
-      "price": 16500.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Acura MDX ",
-      "vin": "5J8YE1H89NL801909",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/bc8aab8fcf8e.html",
-      "year": 2022,
-      "make": "Acura",
-      "model": "MDX",
-      "condition": "used",
-      "price": 42990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Ford Explorer ",
-      "vin": "1FM5K8GC7NGA05074",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/04f8c24c827d.html",
-      "year": 2022,
-      "make": "Ford",
-      "model": "Explorer",
-      "condition": "used",
-      "price": 39798.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2022 GMC Terrain ",
       "vin": "3GKALVEV0NL105035",
       "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/165dcf93c2da.html",
@@ -1210,17 +1143,6 @@
       "model": "CR-V",
       "condition": "used",
       "price": 31990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Hyundai Elantra Preferredin Kelowna",
-      "vin": "KMHLM4AG4NU247831",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/f31ad9060b19.html",
-      "year": 2022,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "used",
-      "price": 18500.0,
       "price_currency": "CAD"
     },
     {
@@ -1254,17 +1176,6 @@
       "model": "Tucson",
       "condition": "used",
       "price": 23985.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Lexus NX ",
-      "vin": "2T2KGCEZ4NC001559",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/0fb55dcb4fba.html",
-      "year": 2022,
-      "make": "Lexus",
-      "model": "NX",
-      "condition": "used",
-      "price": 45989.0,
       "price_currency": "CAD"
     },
     {
@@ -1312,17 +1223,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Acura RDX ",
-      "vin": "5J8TC2H84PL804371",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/46555bb2d772.html",
-      "year": 2023,
-      "make": "Acura",
-      "model": "RDX",
-      "condition": "used",
-      "price": 46917.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Audi A4 ",
       "vin": "WAUAAAF40PN016808",
       "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/5e85cccf5ef2.html",
@@ -1331,28 +1231,6 @@
       "model": "A4",
       "condition": "used",
       "price": 29999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Honda CR-V ",
-      "vin": "2HKRS4H78PH112018",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/a2bf36dc3a5d.html",
-      "year": 2023,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "used",
-      "price": 38990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Honda HR-V ",
-      "vin": "3CZRZ2H52PM104273",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/a9acf113ef7b.html",
-      "year": 2023,
-      "make": "Honda",
-      "model": "HR-V",
-      "condition": "used",
-      "price": 31900.0,
       "price_currency": "CAD"
     },
     {
@@ -1400,17 +1278,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Lexus RX ",
-      "vin": "2T2BAMCA2PC026855",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/b159eb241423.html",
-      "year": 2023,
-      "make": "Lexus",
-      "model": "RX",
-      "condition": "used",
-      "price": 44500.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Nissan Frontier ",
       "vin": "1N6ED1EK8PN606635",
       "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/5e74b557ac06.html",
@@ -1419,17 +1286,6 @@
       "model": "Frontier",
       "condition": "used",
       "price": 48997.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Toyota Corolla ",
-      "vin": "JTDBCMFE9P3011209",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/30704c961dfe.html",
-      "year": 2023,
-      "make": "Toyota",
-      "model": "Corolla",
-      "condition": "used",
-      "price": 25458.0,
       "price_currency": "CAD"
     },
     {
@@ -1446,34 +1302,12 @@
     {
       "name": "2024 Chevrolet Silverado 1500 ",
       "vin": "1GCUDEED0RZ199414",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/5668758ae05c.html",
-      "year": 2024,
-      "make": "Chevrolet",
-      "model": "Silverado 1500",
-      "condition": "used",
-      "price": 54989.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Chevrolet Silverado 1500 ",
-      "vin": "1GCUDEED0RZ199414",
       "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/5668758ae05c.html",
       "year": 2024,
       "make": "Chevrolet",
       "model": "Silverado 1500",
       "condition": "new",
       "price": 54432.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Honda CR-V Hybrid ",
-      "vin": "2HKRS6H9XRH204912",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/d8784b3c283b.html",
-      "year": 2024,
-      "make": "Honda",
-      "model": "CR-V Hybrid",
-      "condition": "used",
-      "price": 40989.0,
       "price_currency": "CAD"
     },
     {
@@ -1490,45 +1324,12 @@
     {
       "name": "2024 Hyundai Palisade ",
       "vin": "KM8R3DGE6RU741424",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/7e28380f1034.html",
-      "year": 2024,
-      "make": "Hyundai",
-      "model": "Palisade",
-      "condition": "used",
-      "price": 44850.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Hyundai Palisade ",
-      "vin": "KM8R3DGE6RU741424",
       "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/7e28380f1034.html",
       "year": 2024,
       "make": "Hyundai",
       "model": "Palisade",
       "condition": "new",
       "price": 44500.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Kia Seltos ",
-      "vin": "KNDEUCAA6R7502065",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/b233a6bf1b41.html",
-      "year": 2024,
-      "make": "Kia",
-      "model": "Seltos",
-      "condition": "used",
-      "price": 22990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Kia Sorento ",
-      "vin": "5XYRGDJC7RG259644",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/e4970f2e1da6.html",
-      "year": 2024,
-      "make": "Kia",
-      "model": "Sorento",
-      "condition": "used",
-      "price": 29750.0,
       "price_currency": "CAD"
     },
     {
@@ -1562,17 +1363,6 @@
       "model": "Sorento",
       "condition": "new",
       "price": 29750.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 MINI Countryman ",
-      "vin": "WMZ83BR0XR3S22131",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/50ab55a8dafa.html",
-      "year": 2024,
-      "make": "MINI",
-      "model": "Countryman",
-      "condition": "used",
-      "price": 38900.0,
       "price_currency": "CAD"
     },
     {
@@ -1622,28 +1412,6 @@
     {
       "name": "2024 Mitsubishi Outlander PHEV ",
       "vin": "JA4T5WA90RZ604780",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/0e2f6cb5045f.html",
-      "year": 2024,
-      "make": "Mitsubishi",
-      "model": "Outlander PHEV",
-      "condition": "used",
-      "price": 38540.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Mitsubishi RVR ",
-      "vin": "JA4AJUAU6RU608342",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/eefd4a9cbaae.html",
-      "year": 2024,
-      "make": "Mitsubishi",
-      "model": "RVR",
-      "condition": "used",
-      "price": 23485.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Mitsubishi Outlander PHEV ",
-      "vin": "JA4T5WA90RZ604780",
       "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/0e2f6cb5045f.html",
       "year": 2024,
       "make": "Mitsubishi",
@@ -1661,28 +1429,6 @@
       "model": "RVR",
       "condition": "new",
       "price": 22887.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Subaru Forester ",
-      "vin": "JF2SKEFC0RH469560",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/ade520472d86.html",
-      "year": 2024,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "used",
-      "price": 32990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Subaru Outback ",
-      "vin": "4S4BTHND8R3265556",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/b5c67fc3f75e.html",
-      "year": 2024,
-      "make": "Subaru",
-      "model": "Outback",
-      "condition": "used",
-      "price": 39999.0,
       "price_currency": "CAD"
     },
     {
@@ -1710,34 +1456,12 @@
     {
       "name": "2024 Toyota Camry ",
       "vin": "4T1S11AK7RU907423",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/8b5e392e1712.html",
-      "year": 2024,
-      "make": "Toyota",
-      "model": "Camry",
-      "condition": "used",
-      "price": 33900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Toyota Camry ",
-      "vin": "4T1S11AK7RU907423",
       "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/8b5e392e1712.html",
       "year": 2024,
       "make": "Toyota",
       "model": "Camry",
       "condition": "new",
       "price": 33900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Audi Q5 ",
-      "vin": "WA12AAGU7S2018937",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/3359daf30a70.html",
-      "year": 2025,
-      "make": "Audi",
-      "model": "Q5",
-      "condition": "used",
-      "price": 48887.0,
       "price_currency": "CAD"
     },
     {
@@ -1754,45 +1478,12 @@
     {
       "name": "2025 Genesis GV70 ",
       "vin": "KMUMADTB6SU216737",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/2195d6e5bbff.html",
-      "year": 2025,
-      "make": "Genesis",
-      "model": "GV70",
-      "condition": "used",
-      "price": 53799.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Genesis GV70 ",
-      "vin": "KMUMADTB6SU216737",
       "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/2195d6e5bbff.html",
       "year": 2025,
       "make": "Genesis",
       "model": "GV70",
       "condition": "new",
       "price": 53799.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Honda CR-V Hybrid ",
-      "vin": "2HKRS6H95SH213099",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/5ee20a917f6a.html",
-      "year": 2025,
-      "make": "Honda",
-      "model": "CR-V Hybrid",
-      "condition": "used",
-      "price": 43990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Honda Civic Hybrid ",
-      "vin": "2HGFE4F83SH004673",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/f992479d722b.html",
-      "year": 2025,
-      "make": "Honda",
-      "model": "Civic Hybrid",
-      "condition": "used",
-      "price": 35500.0,
       "price_currency": "CAD"
     },
     {
@@ -2489,6 +2180,204 @@
       "condition": "new"
     },
     {
+      "name": "New 2027 Honda Civic Hybrid Sportin Kelowna",
+      "vin": "2HGFE4F85VH000273",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/a91091c8a4f8.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic Hybrid",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Honda Civic Hybrid Sportin Kelowna",
+      "vin": "2HGFE4F88VH000378",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/a1917ab8b2cb.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic Hybrid",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Honda Civic Hybrid Sportin Kelowna",
+      "vin": "2HGFE4F81VH000495",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/1b9f95fcf320.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic Hybrid",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Honda Civic Hybrid Sportin Kelowna",
+      "vin": "2HGFE4F87VH000520",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/120db2a23665.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic Hybrid",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Honda Civic Hybrid Sportin Kelowna",
+      "vin": "2HGFE4F81VH000500",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/60a59dd40e1b.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic Hybrid",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Honda Civic Hybrid Sport Touringin Kelowna",
+      "vin": "2HGFE4F94VH000029",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/f2da8b378261.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic Hybrid",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Honda Civic Hybrid Sport Touringin Kelowna",
+      "vin": "2HGFE4F92VH000045",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/77fa6fe5d7bf.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic Hybrid",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Honda Civic Hybrid Sportin Kelowna",
+      "vin": "2HGFE4F83VH000496",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/5ed4907ff0e0.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic Hybrid",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Honda Civic Hybrid Sport Touringin Kelowna",
+      "vin": "2HGFE4F90VH000044",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/69be4fb7486f.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic Hybrid",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Honda Civic Hybrid Sport Touringin Kelowna",
+      "vin": "2HGFE4F90VH000447",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/a698ee9d4557.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic Hybrid",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Honda Civic Hybrid Sport Touringin Kelowna",
+      "vin": "2HGFE4F92VH000806",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/e081fce93165.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic Hybrid",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Honda Civic Sedan LXin Kelowna",
+      "vin": "2HGFE2F24VH100669",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/7a6e52d43e61.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Honda Civic Sedan LXin Kelowna",
+      "vin": "2HGFE2F2XVH100689",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/c97c485dc1d7.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Honda Civic Sedan LXin Kelowna",
+      "vin": "2HGFE2F28VH100688",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/d9f4280f93f7.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Honda Civic Sedan LXin Kelowna",
+      "vin": "2HGFE2F26VH100690",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/d1e6d40ef8b2.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Honda Civic Sedan LXin Kelowna",
+      "vin": "2HGFE2F23VH100677",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/d4a59d8c035a.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Honda Civic Sedan LXin Kelowna",
+      "vin": "2HGFE2F21VH100676",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/c3862c835af6.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Honda Civic Sedan LXin Kelowna",
+      "vin": "2HGFE2F21VH100886",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/473e30f9af89.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Honda Civic Sedan LXin Kelowna",
+      "vin": "2HGFE2F28VH100884",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/7ce6664aa943.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Honda Civic Sedan LXin Kelowna",
+      "vin": "2HGFE2F22VH100881",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/fabcae1a5c57.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Honda Civic Sedan LXin Kelowna",
+      "vin": "2HGFE2F24VH100901",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/04ea6e42c528.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Honda Civic Sedan LXin Kelowna",
+      "vin": "2HGFE2F25VH100888",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/d0c9709fa3f6.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic",
+      "condition": "new"
+    },
+    {
       "name": "2027 Honda HR-V LXin Kelowna",
       "vin": "3CZRZ1H33VM100660",
       "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/f4ad20cb6421.html",
@@ -2663,6 +2552,51 @@
       "name": "2027 Honda HR-V Sportin Kelowna",
       "vin": "3CZRZ2H57VM108641",
       "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/36a10e189dda.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "HR-V",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Honda HR-V Ex-Lin Kelowna",
+      "vin": "3CZRZ2H73VM108900",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/5d6759055e6f.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "HR-V",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Honda HR-V Ex-Lin Kelowna",
+      "vin": "3CZRZ2H75VM108848",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/72f81e6b3719.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "HR-V",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Honda HR-V LXin Kelowna",
+      "vin": "3CZRZ1H31VM101810",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/4997e348c20e.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "HR-V",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Honda HR-V Sportin Kelowna",
+      "vin": "3CZRZ2H54VM108564",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/705162da48b0.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "HR-V",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Honda HR-V LXin Kelowna",
+      "vin": "3CZRZ1H33VM101842",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/29b13315283b.html",
       "year": 2027,
       "make": "Honda",
       "model": "HR-V",
