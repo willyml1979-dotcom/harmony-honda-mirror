@@ -1,6 +1,6 @@
 {
   "dealership": "Harmony Honda",
-  "generated_at": "2026-11-18T05:06:56",
+  "generated_at": "2026-11-18T13:33:16",
   "vehicle_count": 263,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -11,6 +11,38 @@
       "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/1cd87525b8bf.html",
       "condition": "used",
       "price": 11900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mitsubishi Lancer 2009 for salein Kelowna",
+      "vin": "JA3AX88WX9U614419",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/998a1183b62d.html",
+      "condition": "used",
+      "price": 8990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan Altima 2009 for salein Kelowna",
+      "vin": "1N4AL21E49C149823",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/2f37147b7fc7.html",
+      "condition": "used",
+      "price": 6499.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Tiguan 2010 for salein Kelowna",
+      "vin": "WVGAV9AX2AW520345",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/04108c8dc444.html",
+      "condition": "used",
+      "price": 7990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Acura RDX 2011 for salein Kelowna",
+      "vin": "5J8TB1H58BA800492",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/295be2004e14.html",
+      "condition": "used",
+      "price": 12900.0,
       "price_currency": "CAD"
     },
     {
@@ -358,6 +390,38 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Kia Telluride 2024 for salein Kelowna",
+      "vin": "5XYP5DGC9RG526416",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/993bd5fe9aa8.html",
+      "condition": "used",
+      "price": 46125.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda CX-5 2024 for salein Kelowna",
+      "vin": "JM3KFBCL0R0497242",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/7bd4e0412d9a.html",
+      "condition": "used",
+      "price": 32900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mitsubishi Eclipse Cross 2024 for salein Kelowna",
+      "vin": "JA4ATUAA0RZ617119",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/e79e0a600af4.html",
+      "condition": "used",
+      "price": 26798.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mitsubishi Outlander 2024 for salein Kelowna",
+      "vin": "JA4J4WA81RZ629835",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/676723b92aca.html",
+      "condition": "used",
+      "price": 36494.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Mitsubishi Outlander PHEV 2024 for salein Kelowna",
       "vin": "JA4T5WA90RZ604780",
       "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/0e2f6cb5045f.html",
@@ -446,6 +510,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Mitsubishi Eclipse Cross 2025 for salein Kelowna",
+      "vin": "JA4ATVAA3SZ613769",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/38bbedc73b02.html",
+      "condition": "used",
+      "price": 29791.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Honda CR-V Hybrid 2026 for salein Kelowna",
       "vin": "2HKRS6H67TH219378",
       "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/c7c45df9bca1.html",
@@ -528,18 +600,7 @@
       "make": "Mitsubishi",
       "model": "Lancer",
       "condition": "used",
-      "price": 11500.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2009 Mitsubishi Lancer ",
-      "vin": "JA3AX88WX9U614419",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/998a1183b62d.html",
-      "year": 2009,
-      "make": "Mitsubishi",
-      "model": "Lancer",
-      "condition": "used",
-      "price": 11500.0,
+      "price": 8990.0,
       "price_currency": "CAD"
     },
     {
@@ -550,18 +611,7 @@
       "make": "Nissan",
       "model": "Altima",
       "condition": "used",
-      "price": 7990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2009 Nissan Altima ",
-      "vin": "1N4AL21E49C149823",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/2f37147b7fc7.html",
-      "year": 2009,
-      "make": "Nissan",
-      "model": "Altima",
-      "condition": "used",
-      "price": 7990.0,
+      "price": 6499.0,
       "price_currency": "CAD"
     },
     {
@@ -572,18 +622,7 @@
       "make": "Volkswagen",
       "model": "Tiguan",
       "condition": "used",
-      "price": 9500.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2010 Volkswagen Tiguan ",
-      "vin": "WVGAV9AX2AW520345",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/04108c8dc444.html",
-      "year": 2010,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "used",
-      "price": 9500.0,
+      "price": 7990.0,
       "price_currency": "CAD"
     },
     {
@@ -594,18 +633,7 @@
       "make": "Acura",
       "model": "RDX",
       "condition": "used",
-      "price": 14500.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2011 Acura RDX ",
-      "vin": "5J8TB1H58BA800492",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/295be2004e14.html",
-      "year": 2011,
-      "make": "Acura",
-      "model": "RDX",
-      "condition": "used",
-      "price": 14500.0,
+      "price": 12900.0,
       "price_currency": "CAD"
     },
     {
@@ -693,7 +721,7 @@
       "make": "Hyundai",
       "model": "Elantra",
       "condition": "used",
-      "price": 10500.0,
+      "price": 9500.0,
       "price_currency": "CAD"
     },
     {
@@ -726,7 +754,7 @@
       "make": "Nissan",
       "model": "Versa",
       "condition": "used",
-      "price": 9500.0,
+      "price": 7990.0,
       "price_currency": "CAD"
     },
     {
@@ -1346,17 +1374,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Kia Telluride ",
-      "vin": "5XYP5DGC9RG526416",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/993bd5fe9aa8.html",
-      "year": 2024,
-      "make": "Kia",
-      "model": "Telluride",
-      "condition": "used",
-      "price": 48999.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Kia Seltos ",
       "vin": "KNDEUCAA6R7502065",
       "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/b233a6bf1b41.html",
@@ -1387,39 +1404,6 @@
       "model": "Countryman",
       "condition": "new",
       "price": 37990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Mazda CX-5 ",
-      "vin": "JM3KFBCL0R0497242",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/7bd4e0412d9a.html",
-      "year": 2024,
-      "make": "Mazda",
-      "model": "CX-5",
-      "condition": "used",
-      "price": 34500.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Mitsubishi Eclipse Cross ",
-      "vin": "JA4ATUAA0RZ617119",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/e79e0a600af4.html",
-      "year": 2024,
-      "make": "Mitsubishi",
-      "model": "Eclipse Cross",
-      "condition": "used",
-      "price": 27999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Mitsubishi Outlander ",
-      "vin": "JA4J4WA81RZ629835",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/676723b92aca.html",
-      "year": 2024,
-      "make": "Mitsubishi",
-      "model": "Outlander",
-      "condition": "used",
-      "price": 37999.0,
       "price_currency": "CAD"
     },
     {
@@ -1508,17 +1492,6 @@
       "model": "CR-V Hybrid",
       "condition": "new",
       "price": 43990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Mitsubishi Eclipse Cross ",
-      "vin": "JA4ATVAA3SZ613769",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/38bbedc73b02.html",
-      "year": 2025,
-      "make": "Mitsubishi",
-      "model": "Eclipse Cross",
-      "condition": "used",
-      "price": 31990.0,
       "price_currency": "CAD"
     },
     {
