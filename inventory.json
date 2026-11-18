@@ -1,6 +1,6 @@
 {
   "dealership": "Harmony Honda",
-  "generated_at": "2026-11-18T04:58:10",
+  "generated_at": "2026-11-18T05:06:56",
   "vehicle_count": 263,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -1648,25 +1648,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Honda Passport ",
-      "vin": "5FNYF9H50TB508285",
+      "name": "2026 Honda Passportin Kelowna",
+      "vin": "5FNYF9H53TB508717",
       "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/e9a3c5fd96f2.html",
       "year": 2026,
       "make": "Honda",
-      "model": "Passport",
+      "model": "Passportin Kelowna",
       "condition": "new",
-      "price": 59783.0,
+      "price": 59225.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Honda Pilot ",
-      "vin": "5FNYG1H66TB505088",
+      "name": "2026 Honda Pilotin Kelowna",
+      "vin": "5FNYG1H76TB505391",
       "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/ec712975779d.html",
       "year": 2026,
       "make": "Honda",
-      "model": "Pilot",
+      "model": "Pilotin Kelowna",
       "condition": "new",
-      "price": 64443.0,
+      "price": 57785.0,
       "price_currency": "CAD"
     },
     {
@@ -1690,14 +1690,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Honda Ridgeline ",
-      "vin": "5FPYK3F85TB501846",
+      "name": "2026 Honda Ridgelinein Kelowna",
+      "vin": "5FPYK3F87TB501606",
       "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/7171e3edb8a4.html",
       "year": 2026,
       "make": "Honda",
-      "model": "Ridgeline",
+      "model": "Ridgelinein Kelowna",
       "condition": "new",
-      "price": 61233.0,
+      "price": 55225.0,
       "price_currency": "CAD"
     },
     {
@@ -2000,7 +2000,7 @@
       "condition": "new"
     },
     {
-      "name": "2027 Honda CR-V Lx 4wdin Kelowna",
+      "name": "New 2027 Honda CR-V Lx 4wdin Kelowna",
       "vin": "2HKRS4H25VH100748",
       "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/50139f55db4d.html",
       "year": 2027,
