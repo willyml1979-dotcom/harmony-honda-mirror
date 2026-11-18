@@ -1,7 +1,7 @@
 {
   "dealership": "Harmony Honda",
-  "generated_at": "2026-11-17T18:44:43",
-  "vehicle_count": 259,
+  "generated_at": "2026-11-17T19:30:24",
+  "vehicle_count": 261,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -371,6 +371,22 @@
       "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/2147a7a6503e.html",
       "condition": "new",
       "price": 46500.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Honda CR-V Hybrid 2026 for salein Kelowna",
+      "vin": "2HKRS6H67TH219378",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/c7c45df9bca1.html",
+      "condition": "new",
+      "price": 45900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Honda Passport 2026 for salein Kelowna",
+      "vin": "5FNYF9H85TB500404",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/6b3034009e5e.html",
+      "condition": "new",
+      "price": 59994.0,
       "price_currency": "CAD"
     },
     {
@@ -1529,58 +1545,47 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Toyota Crown Signia ",
-      "vin": "JTDACAAJ6S3003186",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/3fbebf4dcc88.html",
-      "year": 2025,
-      "make": "Toyota",
-      "model": "Crown Signia",
-      "condition": "new",
-      "price": 52494.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Honda Accord Hybrid ",
+      "name": "2026 Honda Accord Hybridin Kelowna",
       "vin": "1HGCY2F85TA801540",
       "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/a7e7ff9d8c77.html",
       "year": 2026,
       "make": "Honda",
-      "model": "Accord Hybrid",
+      "model": "Accord",
       "condition": "new",
-      "price": 48823.0,
+      "price": 44873.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Honda Accord Sedan ",
+      "name": "2026 Honda Accord Sedanin Kelowna",
       "vin": "1HGCY1F46TA800310",
       "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/0d61b427cde4.html",
       "year": 2026,
       "make": "Honda",
-      "model": "Accord Sedan",
+      "model": "Accord Sedanin Kelowna",
       "condition": "new",
-      "price": 41123.0,
+      "price": 40565.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Honda CR-V ",
-      "vin": "2HKRS4H23TH111762",
+      "name": "2026 Honda CR-Vin Kelowna",
+      "vin": "2HKRS4H27TH115135",
       "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/bd818d57eee5.html",
+      "year": 2026,
+      "make": "Honda",
+      "model": "CR-Vin Kelowna",
+      "condition": "new",
+      "price": 39210.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Honda CR-V Hybridin Kelowna",
+      "vin": "2HKRS6H99TH235057",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/35fdf6ac0352.html",
       "year": 2026,
       "make": "Honda",
       "model": "CR-V",
       "condition": "new",
-      "price": 42568.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Honda CR-V Hybrid ",
-      "vin": "2HKRS6H72TH236940",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/35fdf6ac0352.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "CR-V Hybrid",
-      "condition": "new",
-      "price": 51493.0,
+      "price": 48135.0,
       "price_currency": "CAD"
     },
     {
@@ -1604,36 +1609,34 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Honda Civic Sedan ",
-      "vin": "2HGFE2F20TH118034",
+      "name": "2026 Honda Civic Sedanin Kelowna",
       "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/d6a4df3340aa.html",
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan",
+      "model": "Civic Sedanin Kelowna",
       "condition": "new",
-      "price": 30963.0,
+      "price": 30405.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Honda Civic Hybrid ",
-      "vin": "2HGFE4F82TH019831",
+      "name": "2026 Honda Civic Sedan Hybridin Kelowna",
       "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/52ea5e193d2a.html",
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Hybrid",
+      "model": "Civic",
       "condition": "new",
-      "price": 36173.0,
+      "price": 36165.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Honda Civic Sedan ",
-      "vin": "2HGFE1E55TH081472",
+      "name": "2026 Honda Civic Si Sedanin Kelowna",
+      "vin": "2HGFE1E51TH081615",
       "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/d0cdd5be9388.html",
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan",
+      "model": "Civic",
       "condition": "new",
-      "price": 39223.0,
+      "price": 38665.0,
       "price_currency": "CAD"
     },
     {
@@ -1657,14 +1660,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Honda Odyssey ",
-      "vin": "5FNRL6H83TB502258",
+      "name": "2026 Honda Odysseyin Kelowna",
+      "vin": "5FNRL6H09TB500704",
       "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/1930dbf48bad.html",
       "year": 2026,
       "make": "Honda",
-      "model": "Odyssey",
+      "model": "Odysseyin Kelowna",
       "condition": "new",
-      "price": 60828.0,
+      "price": 51870.0,
       "price_currency": "CAD"
     },
     {
@@ -1908,28 +1911,6 @@
       "make": "Honda",
       "model": "Civic",
       "condition": "new"
-    },
-    {
-      "name": "2026 Honda CR-V Hybrid ",
-      "vin": "2HKRS6H67TH219378",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/c7c45df9bca1.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "CR-V Hybrid",
-      "condition": "new",
-      "price": 46990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Honda Passport ",
-      "vin": "5FNYF9H85TB500404",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/6b3034009e5e.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "Passport",
-      "condition": "new",
-      "price": 61990.0,
-      "price_currency": "CAD"
     },
     {
       "name": "2026 Kia Seltos ",
@@ -2207,6 +2188,33 @@
       "name": "New 2027 Honda Civic Hybrid Sport Touringin Kelowna",
       "vin": "2HGFE4F95VH001934",
       "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/e9be631c42db.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic Hybrid",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Honda Civic Hybrid Sport Touringin Kelowna",
+      "vin": "2HGFE4F93VH002208",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/df729e953492.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic Hybrid",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Honda Civic Hybrid Sportin Kelowna",
+      "vin": "2HGFE4F81VH001405",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/fdc0e6c1be97.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic Hybrid",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Honda Civic Hybrid Sport Touringin Kelowna",
+      "vin": "2HGFE4F94VH002136",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/609528ffd724.html",
       "year": 2027,
       "make": "Honda",
       "model": "Civic Hybrid",
