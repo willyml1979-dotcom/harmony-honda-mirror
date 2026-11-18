@@ -1,6 +1,6 @@
 # Harmony Honda
 
- dealership in Kelowna. AI-readable inventory mirror, about 262 vehicles.
+ dealership in Kelowna. AI-readable inventory mirror, about 259 vehicles.
 
 - Official website: https://www.harmonyhonda.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/

@@ -1,7 +1,7 @@
 {
   "dealership": "Harmony Honda",
-  "generated_at": "2026-11-16T21:25:06",
-  "vehicle_count": 262,
+  "generated_at": "2026-11-17T18:44:43",
+  "vehicle_count": 259,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -107,6 +107,14 @@
       "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/f8b99c021b8c.html",
       "condition": "used",
       "price": 15990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Tiguan 2017 for salein Kelowna",
+      "vin": "WVGLV7AX8HK037876",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/6bd7d2d1453b.html",
+      "condition": "used",
+      "price": 17299.0,
       "price_currency": "CAD"
     },
     {
@@ -294,6 +302,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Honda Pilot 2025 for salein Kelowna",
+      "vin": "5FNYG1H37SB510272",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/0f1a701a548b.html",
+      "condition": "used",
+      "price": 53887.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Honda Ridgeline 2025 for salein Kelowna",
       "vin": "5FPYK3F81SB501986",
       "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/3bcd6c154c4d.html",
@@ -302,11 +318,35 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Mazda CX-70 MHEV 2025 for salein Kelowna",
+      "vin": "JM3KJEHC8S1102202",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/2147a7a6503e.html",
+      "condition": "used",
+      "price": 46500.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Honda CR-V Hybrid 2026 for salein Kelowna",
+      "vin": "2HKRS6H67TH219378",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/c7c45df9bca1.html",
+      "condition": "used",
+      "price": 45900.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Honda Odyssey 2026 for salein Kelowna",
       "vin": "5FNRL6H09TB500704",
       "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/035787ca1ca1.html",
       "condition": "used",
       "price": 62990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Honda Passport 2026 for salein Kelowna",
+      "vin": "5FNYF9H85TB500404",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/6b3034009e5e.html",
+      "condition": "used",
+      "price": 59994.0,
       "price_currency": "CAD"
     },
     {
@@ -451,7 +491,7 @@
       "make": "Honda",
       "model": "CR-V",
       "condition": "used",
-      "price": 14500.0,
+      "price": 13990.0,
       "price_currency": "CAD"
     },
     {
@@ -616,7 +656,7 @@
       "make": "Honda",
       "model": "CR-V",
       "condition": "used",
-      "price": 18500.0,
+      "price": 16499.0,
       "price_currency": "CAD"
     },
     {
@@ -639,28 +679,6 @@
       "model": "CR-V",
       "condition": "new",
       "price": 18500.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2015 Hyundai Veloster Basein Kelowna",
-      "vin": "KMHTC6AD8FU245621",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/040502062db4.html",
-      "year": 2015,
-      "make": "Hyundai",
-      "model": "Veloster",
-      "condition": "used",
-      "price": 7750.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2015 Hyundai Veloster ",
-      "vin": "KMHTC6AD8FU245621",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/e7bdc66040f9.html",
-      "year": 2015,
-      "make": "Hyundai",
-      "model": "Veloster",
-      "condition": "used",
-      "price": 7750.0,
       "price_currency": "CAD"
     },
     {
@@ -785,17 +803,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Mazda CX-5 ",
-      "vin": "JM3KFBDL8H0173128",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/c094c8766c42.html",
-      "year": 2017,
-      "make": "Mazda",
-      "model": "CX-5",
-      "condition": "used",
-      "price": 25999.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2017 Mazda3 GSin Kelowna",
       "vin": "JM1BN1V7XH1105303",
       "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/4bc12366d5db.html",
@@ -810,17 +817,6 @@
       "name": "2017 Volkswagen Tiguan Highlinein Kelowna",
       "vin": "WVGLV7AX8HK037876",
       "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/17d401df1fa5.html",
-      "year": 2017,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "used",
-      "price": 19990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 Volkswagen Tiguan ",
-      "vin": "WVGLV7AX8HK037876",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/6bd7d2d1453b.html",
       "year": 2017,
       "make": "Volkswagen",
       "model": "Tiguan",
@@ -994,6 +990,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2019 Jeep Grand Cherokee Altitudein Kelowna",
+      "vin": "1C4RJFAG0KC694628",
+      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/e15d4140bd55.html",
+      "year": 2019,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "condition": "used",
+      "price": 21496.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2019 Jeep Grand Cherokee ",
       "vin": "1C4RJFAG0KC694628",
       "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/618524c7660c.html",
@@ -1012,7 +1019,7 @@
       "make": "Nissan",
       "model": "Pathfinder",
       "condition": "used",
-      "price": 19839.0,
+      "price": 18844.0,
       "price_currency": "CAD"
     },
     {
@@ -1189,17 +1196,6 @@
       "model": "Elantra",
       "condition": "used",
       "price": 18500.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Hyundai Tucson ",
-      "vin": "KM8JCCAE7NU160590",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/e106c24ba60d.html",
-      "year": 2022,
-      "make": "Hyundai",
-      "model": "Tucson",
-      "condition": "used",
-      "price": 23985.0,
       "price_currency": "CAD"
     },
     {
@@ -1511,17 +1507,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Honda Pilot ",
-      "vin": "5FNYG1H37SB510272",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/0f1a701a548b.html",
-      "year": 2025,
-      "make": "Honda",
-      "model": "Pilot",
-      "condition": "used",
-      "price": 54990.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Honda CR-V Hybrid ",
       "vin": "2HKRS6H95SH213099",
       "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/new/5ee20a917f6a.html",
@@ -1530,17 +1515,6 @@
       "model": "CR-V Hybrid",
       "condition": "new",
       "price": 43990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Mazda CX-70 MHEV ",
-      "vin": "JM3KJEHC8S1102202",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/2147a7a6503e.html",
-      "year": 2025,
-      "make": "Mazda",
-      "model": "CX-70 MHEV",
-      "condition": "used",
-      "price": 50900.0,
       "price_currency": "CAD"
     },
     {
@@ -1563,28 +1537,6 @@
       "model": "Crown Signia",
       "condition": "new",
       "price": 52494.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Honda CR-V Hybrid ",
-      "vin": "2HKRS6H67TH219378",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/c7c45df9bca1.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "CR-V Hybrid",
-      "condition": "used",
-      "price": 46990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Honda Passport ",
-      "vin": "5FNYF9H85TB500404",
-      "url": "https://willyml1979-dotcom.github.io/harmony-honda-mirror/used/6b3034009e5e.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "Passport",
-      "condition": "used",
-      "price": 61990.0,
       "price_currency": "CAD"
     },
     {
